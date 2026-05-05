@@ -71,10 +71,3 @@ To ensure industry readiness, the following standards are strictly enforced thro
 
 ---
 **Lead Architect & Scientist:** *[Your Name/Gemini AI]* **Goal:** Transform theoretical knowledge into scalable AI systems.
-
-***
-
-### Як використовувати цей файл:
-1. Створіть у своєму проекті (в VS Code або GitHub) новий файл з назвою `README.md`.
-2. Скопіюйте текст вище та вставте його туди.
-3. Цей файл буде слугувати "обкладинкою" вашого навчання, допомагаючи тримати фокус на структурі (Python -> Math -> Algos -> ML -> Vision).
